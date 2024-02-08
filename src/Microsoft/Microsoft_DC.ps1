@@ -10,7 +10,7 @@ while ($b1f4eece49f945094e88e00f7f517b7e -lt 32) {
         $7f2f1372c2f5b1e36b1b2ff35d125f75 = $dae2ece03db6f62535fde064d8919fad.FFN
         $53699a09d32a48433b00c9f6e5afddd6 = $dae2ece03db6f62535fde064d8919fad.AvailableBuild
         if ($dae2ece03db6f62535fde064d8919fad) {
-            Write-Output "Microsoft_DC        : $7f2f1372c2f5b1e36b1b2ff35d125f75: $53699a09d32a48433b00c9f6e5afddd6"
+            Write-Output "Microsoft_DC        : $7f2f1372c2f5b1e36b1b2ff35d125f75 : $53699a09d32a48433b00c9f6e5afddd6"
         }
         break
     } catch {
